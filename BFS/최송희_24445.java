@@ -3,7 +3,7 @@ package BFS;
 import java.io.*;
 import java.util.*;
 
-public class BOJ_24445 {
+public class 최송희_24445 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb;
     static StringTokenizer st;
