@@ -13,7 +13,7 @@ for i in range(m):
     graph[v].append(u)
 
 for i in graph:
-    i.sort()
+    i.sort(reverse=True)
 
 q = deque()
 cnt = 1
